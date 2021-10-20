@@ -5,17 +5,17 @@ This is the [website](https://parsonsdt.github.io/critical-computation-2021/) fo
 ### Lecture Faculty
 
 - Katherine Moriwaki (she/her)
-- Xin Xin (they/them)
+- [Xin Xin](https://github.com/xinemata) (they/them)
 
 ### Lab Faculty
 
-- Aarati Akkapeddi (they/them)
-- Dan Lichtman (he/him)
-- Elizabeth Pérez (she/her)
-- Jules Kris (they/them)
-- Kevin Cadena (he/him)
-- Sean Scanlan (he/him)
-- Tristan Espinoza (he/they)
+- [Aarati Akkapeddi](https://github.com/AaratiAkkapeddi) (they/them)
+- [Dan Lichtman](https://github.com/danielp73) (he/him)
+- [Elizabeth Pérez](https://github.com/brujadev) (she/her)
+- [Jules Kris](https://github.com/jules-kris) (they/them)
+- [Kevin Cadena](https://github.com/stayclassyinfo) (he/him)
+- [Sean Scanlan](https://github.com/twotabsofacid) (he/him)
+- [Tristan Espinoza](https://github.com/tespin) (he/they)
 
 ## Course Descriptions
 
